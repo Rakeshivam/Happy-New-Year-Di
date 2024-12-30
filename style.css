@@ -79,9 +79,9 @@
     animation: glow 2s infinite alternate;
   }
   .my-name{
-    color: #b7d3e8;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 1.5rem;
+    color: #d1f5ff;
+    font-family: Georgia, serif;
+    font-size: 1.25rem;
   }
   
   @keyframes glow {
